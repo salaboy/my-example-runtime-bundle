@@ -5,7 +5,7 @@
 
 	<groupId>org.activiti.cloud</groupId>
 	<artifactId>my-example-runtime-bundle</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>my-example-runtime-bundle</name>
